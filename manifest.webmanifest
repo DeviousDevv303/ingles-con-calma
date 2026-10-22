@@ -1,0 +1,15 @@
+{
+  "name": "Inglés con Calma",
+  "short_name": "Inglés",
+  "description": "Lecciones de inglés para hispanohablantes, con audio. Sin anuncios, sin cuentas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF6EC",
+  "theme_color": "#1E5B4A",
+  "lang": "es",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
